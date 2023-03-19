@@ -10,6 +10,5 @@ export class Vehicle {
     }
 }
 
-
 const ricardosGolf = new Vehicle("VW", "Golf", "2017");
 ricardosGolf.logVehicleName();

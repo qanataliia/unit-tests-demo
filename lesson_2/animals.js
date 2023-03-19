@@ -23,8 +23,4 @@ export class Animal {
          console.log(`\r\n ${this.species}'s home is ${this.livingArea}`);
     }
 
-}
-
-// Think of 3 extra properties to add to the Animal class
-// Write 3 functions that either calculate or print things based on these properties
-// Create lesson02.spec.js file, and write unit tests for all of these functions.
+};
